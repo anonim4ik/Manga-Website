@@ -1,5 +1,4 @@
-# AlbertEsenin
-Project Manga Website
+#1.  Goals and objectives
 
 ЦЕЛИ и ЗАДАЧИ
 
