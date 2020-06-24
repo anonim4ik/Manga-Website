@@ -1,5 +1,4 @@
-# AlbertEsenin
-Project Manga Website
+# 2. Goals and objectives of our project;
 
 Новизна и практическая значимость
 
